@@ -1,6 +1,7 @@
 
 /**
  * @module aloham
- * @author diesweed
+ * @author weedpot
  */
 
+mmmmm
